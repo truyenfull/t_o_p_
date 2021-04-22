@@ -428,7 +428,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/airi_3.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/airi_4.jpg",
@@ -440,7 +440,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/arthur_2.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/arthur_3.jpg",
@@ -464,7 +464,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/butterfly_2.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/butterfly_3.jpg",
@@ -476,7 +476,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/butterfly_5.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/dieuthuyen_1.jpg",
@@ -484,7 +484,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/dieuthuyen_2.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/dieuthuyen_3.jpg",
@@ -504,7 +504,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/enzo_3.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/errol_1.jpg",
@@ -520,7 +520,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/hayate_2.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/hayate_3.jpg",
@@ -548,7 +548,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/lauriel_2.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/lauriel_3.jpg",
@@ -580,7 +580,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/lubo_2.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/maloch_1.jpg",
@@ -612,7 +612,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/murad_6.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/murad_7.jpg",
@@ -632,7 +632,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/natalya_1.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/natalya_2.jpg",
@@ -660,7 +660,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/ngokhong_3.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/ngokhong_4.jpg",
@@ -684,7 +684,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/raz_1.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/raz_2.jpg",
@@ -704,7 +704,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/roxie_3.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/ryoma_1.jpg",
@@ -744,7 +744,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/trieuvan_2.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/tulen_1.jpg",
@@ -780,7 +780,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/valheil_3.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/violet_1.jpg",
@@ -800,7 +800,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/violet_5.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/violet_6.jpg",
@@ -832,7 +832,7 @@
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/zill_2.jpg",
-            "vip":false
+            "vip":true
          },
          {
             "url_picture":"https:\/\/github.com\/truyenfull\/map_lq\/raw\/main\/background\/zill_3.jpg",
