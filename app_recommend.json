@@ -1,7 +1,18 @@
 {
-  app_icon:"",
-  title:"",
-  content:"",
-  picture:"",
-  packageName:"",
+   "vi_vn":{
+      "app_icon":"https://github.com/truyenfull/t_o_p_/raw/main/recommend/logo_app.png",
+      "title":"Garena Booster - Hiệu năng cao cho trò chơi",
+      "content":"Bỏ qua nếu bạn không biết gì về hiệu năng điện thoại",
+      "picture":"https://github.com/truyenfull/t_o_p_/raw/main/recommend/ic_garena_booster.png",
+      "packageName":"com.docs.sn.fpslienquan",
+      "local":"another"
+   },
+   "another":{
+      "app_icon":"https://github.com/truyenfull/t_o_p_/raw/main/recommend/logo_app.png",
+      "title":"Garena Booster - Ultra Performance For Games",
+      "content":"Skip if you don\\'t know anything about phone performance",
+      "picture":"https://github.com/truyenfull/t_o_p_/raw/main/recommend/ic_garena_booster.png",
+      "packageName":"com.docs.sn.fpslienquan",
+      "local":"another"
+   }
 }
